@@ -1,0 +1,18 @@
+[submodule "mpitutorial"]
+	path = mpitutorial
+	url = https://github.com/wesleykendall/mpitutorial
+[submodule "ompi"]
+	path = ompi
+	url = https://github.com/open-mpi/ompi
+[submodule "mpi4py-examples"]
+	path = mpi4py-examples
+	url = https://github.com/jbornschein/mpi4py-examples
+[submodule "mpio"]
+	path = mpio
+	url = https://github.com/frsyuki/mpio
+[submodule "mpich2-yarn"]
+	path = mpich2-yarn
+	url = https://github.com/alibaba/mpich2-yarn
+[submodule "MPI.jl"]
+	path = MPI.jl
+	url = https://github.com/JuliaParallel/MPI.jl
