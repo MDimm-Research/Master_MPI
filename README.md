@@ -1,6 +1,4 @@
-# Master_MPI
-getting started programming mpi. 
-Examples of others projects included.
+# File_Org_Instructions
 
 
 Steps that built this file organization. 
