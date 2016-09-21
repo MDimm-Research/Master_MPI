@@ -16,3 +16,6 @@
 [submodule "MPI.jl"]
 	path = MPI.jl
 	url = https://github.com/JuliaParallel/MPI.jl
+[submodule "Eggan_Examples"]
+	path = Eggan_Examples
+	url = https://github.com/miketestgit01/Eggan_Examples
