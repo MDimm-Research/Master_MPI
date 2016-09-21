@@ -1,3 +1,12 @@
+## to have access on your local computer... 
+click green box ... clone
+copy that address: https://github.com/MichaelDimmitt/Master_MPI.git
+in terminal type git clone --recursive https://github.com/MichaelDimmitt/Master_MPI.git 
+
+## Cool things you can do when you have the program contents in local directory.
+
+https://github.com/miketestgit01/Bash_Directory_CLOC-Count-Lines-of-Program/
+
 # File_Org_Instructions
 
 
