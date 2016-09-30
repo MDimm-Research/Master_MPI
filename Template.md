@@ -1,3 +1,5 @@
+https://www.open-mpi.org/doc/v1.6/
+
 #Active TEMPLATE
 MPI
   -send-out	
@@ -20,3 +22,4 @@ size - (num * rank)
 
 MPI_Send(&j, 1, MPI_INT, i, ARRSIZE, MPI_COMM_WORLD);
 MPI_Send(intarray, count, 1, MPI_INT, i, ARR, MPI_COMM_WORLD);
+
