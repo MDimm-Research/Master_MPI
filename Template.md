@@ -6,6 +6,8 @@ MPI
   -bring back in.
 
 
+cd ..; make -f aMakefile; bash cRun
+cd MasterServant/; vi master_servant.c
 
 
 
